@@ -8,6 +8,7 @@ namespace GitAddDemo
 	[Register ("AppDelegate")]
 	public class AppDelegate : UIApplicationDelegate
 	{
+		//HEllo
 		// class-level declarations
 
 		public override UIWindow Window {
